@@ -2,7 +2,7 @@ Hi everyone!
 Welcome to my personal blog
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/Blog_P1.png)
+!(images/Blog_P1.jpeg)
 
 ## This is a title
 
