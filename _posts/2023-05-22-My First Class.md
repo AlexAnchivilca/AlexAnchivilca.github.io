@@ -14,3 +14,8 @@ In this class, professor showed some examples of images created by using this ap
 | Require expensive computer | You can access to virtual computers for free|
 
 
+## Take-home message 3
+FastAI is a library that uses the best-practice programming in PyTorch  to optimize the developing of AI applications. <br>
+<img src="/images/PyTorch.png" width="350" height="200"> <img src="/images/FastAI.png" width="350" height="200"> 
+
+
