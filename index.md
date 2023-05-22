@@ -1,5 +1,5 @@
 **Hi everyone!** Welcome to my personal blog <br>
-In this blog, I will illustrate my journey of acquiring fundamental knowledge in deep learning <br>
+In this blog, I will illustrate my journey of acquiring fundamental knowledge in deep learning by using FASTAI tools <br>
 <br>
 <br>
 <br>
