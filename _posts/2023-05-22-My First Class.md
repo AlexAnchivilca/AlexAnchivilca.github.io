@@ -6,7 +6,7 @@ In this class, professor showed some examples of images created by using this ap
 ![AI](/images/AI_Images.png "AI Images")
 
 ## Take-home message 2
--Myth and truth of deep learning.
+
 | Myth| Truth |
 |-|-|
 | Require lots of math | High school math is enough |
