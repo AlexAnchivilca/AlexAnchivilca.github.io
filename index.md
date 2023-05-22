@@ -1,9 +1,9 @@
-Hi everyone!
-Welcome to my personal blog
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+**Hi everyone!** Welcome to my personal blog <br>
+In this blog, I am going to show you my process learning the basic of deep learning :) <br>
 
-![ALEX](images/Blog_P1.jpg)
 
+<img src="images/Blog_P1.jpg" width="250" height="250">
 ## This is a title
-
+Please follow my profile at:
+LinkedIn: (https://www.linkedin.com/in/aanchivilcab/)
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
