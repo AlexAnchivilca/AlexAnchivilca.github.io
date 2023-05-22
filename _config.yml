@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Alex Anchivilca-My personal Blog
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Deep Learning Blog
+description: This blog going to show you the basics of deep learning by using FASTAI tools. Hope enjoy it!
 github_username: AlexAnchivilca
 
 # Email and twitter are optional:
